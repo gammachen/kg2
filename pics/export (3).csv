@@ -1,0 +1,12 @@
+﻿a,dg
+"(:Aker {address: ""HZ"",gender: ""男"",name: ""明亮"",type: ""黑领""})",null
+"(:Aker {address: ""HZ"",gender: ""女"",name: ""花A"",type: ""黑领""})","(:DepartmentGroup {parentDepartmentId: ""0"",createdAt: ""2021-05-15T13:40:00Z"",code: ""TC01"",phone: ""021-12333333"",departmentId: ""D002"",name: ""BU_A_技术研发部"",description: ""负责公司的技术研发部规划与管理"",location: ""上海总部"",managerId: ""E002"",email: ""hr@example.com"",status: ""活跃"",updatedAt: ""2021-05-15T13:40:00Z""})"
+"(:Aker {address: ""HZ"",gender: ""女"",name: ""花B"",type: ""黑领""})","(:DepartmentGroup {parentDepartmentId: ""0"",createdAt: ""2021-05-15T13:40:00Z"",code: ""HR01"",phone: ""021-12345678"",departmentId: ""D001"",name: ""BU_A_人力资源部"",description: ""负责公司的人力资源规划与管理"",location: ""上海总部"",managerId: ""E001"",email: ""hr@example.com"",status: ""活跃"",updatedAt: ""2021-05-15T13:40:00Z""})"
+"(:Aker {address: ""HZ"",gender: ""女"",name: ""花C"",type: ""黑领""})","(:DepartmentGroup {parentDepartmentId: ""0"",createdAt: ""2021-05-15T13:40:00Z"",code: ""HR01"",phone: ""021-12345678"",departmentId: ""D001"",name: ""BU_A_人力资源部"",description: ""负责公司的人力资源规划与管理"",location: ""上海总部"",managerId: ""E001"",email: ""hr@example.com"",status: ""活跃"",updatedAt: ""2021-05-15T13:40:00Z""})"
+"(:Aker {address: ""SH"",gender: ""女"",name: ""静静"",type: ""白领""})",null
+"(:Aker {address: ""HZ"",gender: ""男"",name: ""明明"",type: ""黑领""})",null
+"(:Aker {address: ""HZ"",gender: ""女"",name: ""豆豆"",type: ""蓝领""})",null
+"(:Aker {address: ""HZ"",gender: ""女"",name: ""花花"",type: ""黑领""})",null
+"(:Aker {address: ""HZ"",gender: ""女"",name: ""明乔一"",type: ""黑领""})",null
+"(:Aker {address: ""HZ"",gender: ""男"",name: ""明乔二"",type: ""黑领""})",null
+"(:Aker {address: ""HZ"",gender: ""男"",name: ""明花三"",type: ""黑领""})",null

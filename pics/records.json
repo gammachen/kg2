@@ -1,0 +1,1527 @@
+﻿[
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "贾代善"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:0"
+      },
+      "end": {
+        "identity": 1,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "贾源"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:1"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "贾代善"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:0"
+          },
+          "relationship": {
+            "identity": 0,
+            "start": 0,
+            "end": 1,
+            "type": "子",
+            "properties": {
+
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:0",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:0",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:1"
+          },
+          "end": {
+            "identity": 1,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "贾源"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:1"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "贾珠"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:14"
+      },
+      "end": {
+        "identity": 12,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "贾政"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:12"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "贾珠"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:14"
+          },
+          "relationship": {
+            "identity": 11,
+            "start": 14,
+            "end": 12,
+            "type": "子",
+            "properties": {
+
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:11",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:14",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:12"
+          },
+          "end": {
+            "identity": 12,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "贾政"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:12"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 22,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "贾桂"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:22"
+      },
+      "end": {
+        "identity": 20,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "贾宝玉"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:20"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 22,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "贾桂"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:22"
+          },
+          "relationship": {
+            "identity": 17,
+            "start": 22,
+            "end": 20,
+            "type": "子",
+            "properties": {
+
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:17",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:22",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:20"
+          },
+          "end": {
+            "identity": 20,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "贾宝玉"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:20"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 23,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "贾菌"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:23"
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "娄氏"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:2"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 23,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "贾菌"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:23"
+          },
+          "relationship": {
+            "identity": 18,
+            "start": 23,
+            "end": 2,
+            "type": "子",
+            "properties": {
+
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:18",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:23",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:2"
+          },
+          "end": {
+            "identity": 2,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "娄氏"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:2"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 43,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "甄应嘉"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:43"
+      },
+      "end": {
+        "identity": 44,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "甄宝玉祖母"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:44"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 43,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "甄应嘉"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:43"
+          },
+          "relationship": {
+            "identity": 33,
+            "start": 43,
+            "end": 44,
+            "type": "子",
+            "properties": {
+
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:33",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:43",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:44"
+          },
+          "end": {
+            "identity": 44,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "甄宝玉祖母"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:44"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 57,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "林如海之子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:57"
+      },
+      "end": {
+        "identity": 55,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "林如海"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:55"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 57,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "林如海之子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:57"
+          },
+          "relationship": {
+            "identity": 43,
+            "start": 57,
+            "end": 55,
+            "type": "子",
+            "properties": {
+
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:43",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:57",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:55"
+          },
+          "end": {
+            "identity": 55,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "林如海"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:55"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 64,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "赵天梁"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:64"
+      },
+      "end": {
+        "identity": 63,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "赵嬷嬷"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:63"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 64,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "赵天梁"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:64"
+          },
+          "relationship": {
+            "identity": 50,
+            "start": 64,
+            "end": 63,
+            "type": "子",
+            "properties": {
+
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:50",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:64",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:63"
+          },
+          "end": {
+            "identity": 63,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "赵嬷嬷"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:63"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 65,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "赵天栋"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:65"
+      },
+      "end": {
+        "identity": 63,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "赵嬷嬷"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:63"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 65,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "赵天栋"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:65"
+          },
+          "relationship": {
+            "identity": 51,
+            "start": 65,
+            "end": 63,
+            "type": "子",
+            "properties": {
+
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:51",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:65",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:63"
+          },
+          "end": {
+            "identity": 63,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "赵嬷嬷"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:63"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 100,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "李贵"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:100"
+      },
+      "end": {
+        "identity": 86,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "李嬷嬷"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:86"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 100,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "李贵"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:100"
+          },
+          "relationship": {
+            "identity": 83,
+            "start": 100,
+            "end": 86,
+            "type": "子",
+            "properties": {
+
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:83",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:100",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:86"
+          },
+          "end": {
+            "identity": 86,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "李嬷嬷"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:86"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 109,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "周嫂子的儿子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:109"
+      },
+      "end": {
+        "identity": 105,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "周瑞"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:105"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 109,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "周嫂子的儿子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:109"
+          },
+          "relationship": {
+            "identity": 91,
+            "start": 109,
+            "end": 105,
+            "type": "子",
+            "properties": {
+
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:91",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:109",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:105"
+          },
+          "end": {
+            "identity": 105,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "周瑞"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:105"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 134,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "赖尚荣"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:134"
+      },
+      "end": {
+        "identity": 133,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "赖大"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:133"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 134,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "赖尚荣"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:134"
+          },
+          "relationship": {
+            "identity": 114,
+            "start": 134,
+            "end": 133,
+            "type": "子",
+            "properties": {
+
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:114",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:134",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:133"
+          },
+          "end": {
+            "identity": 133,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "赖大"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:133"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 195,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "太上皇"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:195"
+      },
+      "end": {
+        "identity": 194,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "先皇"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:194"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 195,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "太上皇"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:195"
+          },
+          "relationship": {
+            "identity": 170,
+            "start": 195,
+            "end": 194,
+            "type": "子",
+            "properties": {
+
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:170",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:195",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:194"
+          },
+          "end": {
+            "identity": 194,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "先皇"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:194"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 198,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "皇帝"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:198"
+      },
+      "end": {
+        "identity": 195,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "太上皇"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:195"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 198,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "皇帝"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:198"
+          },
+          "relationship": {
+            "identity": 173,
+            "start": 198,
+            "end": 195,
+            "type": "子",
+            "properties": {
+
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:173",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:198",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:195"
+          },
+          "end": {
+            "identity": 195,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "太上皇"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:195"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 205,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "贾代化"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:205"
+      },
+      "end": {
+        "identity": 206,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "贾演"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:206"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 205,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "贾代化"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:205"
+          },
+          "relationship": {
+            "identity": 181,
+            "start": 205,
+            "end": 206,
+            "type": "子",
+            "properties": {
+
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:181",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:205",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:206"
+          },
+          "end": {
+            "identity": 206,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "贾演"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:206"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 208,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "贾敷"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:208"
+      },
+      "end": {
+        "identity": 205,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "贾代化"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:205"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 208,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "贾敷"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:208"
+          },
+          "relationship": {
+            "identity": 183,
+            "start": 208,
+            "end": 205,
+            "type": "子",
+            "properties": {
+
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:183",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:208",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:205"
+          },
+          "end": {
+            "identity": 205,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "贾代化"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:205"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 209,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "贾敬"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:209"
+      },
+      "end": {
+        "identity": 205,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "贾代化"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:205"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 209,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "贾敬"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:209"
+          },
+          "relationship": {
+            "identity": 184,
+            "start": 209,
+            "end": 205,
+            "type": "子",
+            "properties": {
+
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:184",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:209",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:205"
+          },
+          "end": {
+            "identity": 205,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "贾代化"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:205"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 211,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "史湘云爷爷"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:211"
+      },
+      "end": {
+        "identity": 212,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "史侯"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:212"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 211,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "史湘云爷爷"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:211"
+          },
+          "relationship": {
+            "identity": 186,
+            "start": 211,
+            "end": 212,
+            "type": "子",
+            "properties": {
+
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:186",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:211",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:212"
+          },
+          "end": {
+            "identity": 212,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "史侯"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:212"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 213,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "史鼐"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:213"
+      },
+      "end": {
+        "identity": 211,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "史湘云爷爷"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:211"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 213,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "史鼐"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:213"
+          },
+          "relationship": {
+            "identity": 187,
+            "start": 213,
+            "end": 211,
+            "type": "子",
+            "properties": {
+
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:187",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:213",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:211"
+          },
+          "end": {
+            "identity": 211,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "史湘云爷爷"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:211"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 214,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "史鼎"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:214"
+      },
+      "end": {
+        "identity": 211,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "史湘云爷爷"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:211"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 214,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "史鼎"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:214"
+          },
+          "relationship": {
+            "identity": 188,
+            "start": 214,
+            "end": 211,
+            "type": "子",
+            "properties": {
+
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:188",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:214",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:211"
+          },
+          "end": {
+            "identity": 211,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "史湘云爷爷"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:211"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 222,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "凤姐之祖王夫人之父"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:222"
+      },
+      "end": {
+        "identity": 223,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "王公"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:223"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 222,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "凤姐之祖王夫人之父"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:222"
+          },
+          "relationship": {
+            "identity": 196,
+            "start": 222,
+            "end": 223,
+            "type": "子",
+            "properties": {
+
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:196",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:222",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:223"
+          },
+          "end": {
+            "identity": 223,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "王公"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:223"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "王夫人之大兄凤姐之父"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:224"
+      },
+      "end": {
+        "identity": 222,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "凤姐之祖王夫人之父"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:222"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "王夫人之大兄凤姐之父"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:224"
+          },
+          "relationship": {
+            "identity": 197,
+            "start": 224,
+            "end": 222,
+            "type": "子",
+            "properties": {
+
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:197",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:224",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:222"
+          },
+          "end": {
+            "identity": 222,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "凤姐之祖王夫人之父"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:222"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 225,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "王子腾"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:225"
+      },
+      "end": {
+        "identity": 222,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "凤姐之祖王夫人之父"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:222"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 225,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "王子腾"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:225"
+          },
+          "relationship": {
+            "identity": 198,
+            "start": 225,
+            "end": 222,
+            "type": "子",
+            "properties": {
+
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:198",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:225",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:222"
+          },
+          "end": {
+            "identity": 222,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "凤姐之祖王夫人之父"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:222"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 226,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "王子胜"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:226"
+      },
+      "end": {
+        "identity": 222,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "凤姐之祖王夫人之父"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:222"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 226,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "王子胜"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:226"
+          },
+          "relationship": {
+            "identity": 199,
+            "start": 226,
+            "end": 222,
+            "type": "子",
+            "properties": {
+
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:199",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:226",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:222"
+          },
+          "end": {
+            "identity": 222,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "凤姐之祖王夫人之父"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:222"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 230,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "王仁"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:230"
+      },
+      "end": {
+        "identity": 224,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "王夫人之大兄凤姐之父"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:224"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 230,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "王仁"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:230"
+          },
+          "relationship": {
+            "identity": 204,
+            "start": 230,
+            "end": 224,
+            "type": "子",
+            "properties": {
+
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:204",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:230",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:224"
+          },
+          "end": {
+            "identity": 224,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "王夫人之大兄凤姐之父"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:224"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 234,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "王成"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:234"
+      },
+      "end": {
+        "identity": 228,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "王成父"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:228"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 234,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "王成"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:234"
+          },
+          "relationship": {
+            "identity": 209,
+            "start": 234,
+            "end": 228,
+            "type": "子",
+            "properties": {
+
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:209",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:234",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:228"
+          },
+          "end": {
+            "identity": 228,
+            "labels": [
+              "Person"
+            ],
+            "properties": {
+              "name": "王成父"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:228"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  }
+]

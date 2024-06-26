@@ -1,0 +1,238 @@
+﻿[
+  {
+    "a": {
+      "identity": 495,
+      "labels": [
+        "Aker"
+      ],
+      "properties": {
+        "address": "HZ",
+        "gender": "男",
+        "name": "明亮",
+        "type": "黑领"
+      },
+      "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:495"
+    },
+    "dg": null
+  },
+  {
+    "a": {
+      "identity": 496,
+      "labels": [
+        "Aker"
+      ],
+      "properties": {
+        "address": "HZ",
+        "gender": "女",
+        "name": "花A",
+        "type": "黑领"
+      },
+      "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:496"
+    },
+    "dg": {
+      "identity": 502,
+      "labels": [
+        "DepartmentGroup"
+      ],
+      "properties": {
+        "parentDepartmentId": "0",
+        "createdAt": "2021-05-15T13:40:00Z",
+        "code": "TC01",
+        "phone": "021-12333333",
+        "departmentId": "D002",
+        "name": "BU_A_技术研发部",
+        "description": "负责公司的技术研发部规划与管理",
+        "location": "上海总部",
+        "managerId": "E002",
+        "email": "hr@example.com",
+        "status": "活跃",
+        "updatedAt": "2021-05-15T13:40:00Z"
+      },
+      "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:502"
+    }
+  },
+  {
+    "a": {
+      "identity": 497,
+      "labels": [
+        "Aker"
+      ],
+      "properties": {
+        "address": "HZ",
+        "gender": "女",
+        "name": "花B",
+        "type": "黑领"
+      },
+      "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:497"
+    },
+    "dg": {
+      "identity": 501,
+      "labels": [
+        "DepartmentGroup"
+      ],
+      "properties": {
+        "parentDepartmentId": "0",
+        "createdAt": "2021-05-15T13:40:00Z",
+        "code": "HR01",
+        "phone": "021-12345678",
+        "departmentId": "D001",
+        "name": "BU_A_人力资源部",
+        "description": "负责公司的人力资源规划与管理",
+        "location": "上海总部",
+        "managerId": "E001",
+        "email": "hr@example.com",
+        "status": "活跃",
+        "updatedAt": "2021-05-15T13:40:00Z"
+      },
+      "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:501"
+    }
+  },
+  {
+    "a": {
+      "identity": 498,
+      "labels": [
+        "Aker"
+      ],
+      "properties": {
+        "address": "HZ",
+        "gender": "女",
+        "name": "花C",
+        "type": "黑领"
+      },
+      "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:498"
+    },
+    "dg": {
+      "identity": 501,
+      "labels": [
+        "DepartmentGroup"
+      ],
+      "properties": {
+        "parentDepartmentId": "0",
+        "createdAt": "2021-05-15T13:40:00Z",
+        "code": "HR01",
+        "phone": "021-12345678",
+        "departmentId": "D001",
+        "name": "BU_A_人力资源部",
+        "description": "负责公司的人力资源规划与管理",
+        "location": "上海总部",
+        "managerId": "E001",
+        "email": "hr@example.com",
+        "status": "活跃",
+        "updatedAt": "2021-05-15T13:40:00Z"
+      },
+      "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:501"
+    }
+  },
+  {
+    "a": {
+      "identity": 518,
+      "labels": [
+        "Aker"
+      ],
+      "properties": {
+        "address": "SH",
+        "gender": "女",
+        "name": "静静",
+        "type": "白领"
+      },
+      "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:518"
+    },
+    "dg": null
+  },
+  {
+    "a": {
+      "identity": 519,
+      "labels": [
+        "Aker"
+      ],
+      "properties": {
+        "address": "HZ",
+        "gender": "男",
+        "name": "明明",
+        "type": "黑领"
+      },
+      "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:519"
+    },
+    "dg": null
+  },
+  {
+    "a": {
+      "identity": 520,
+      "labels": [
+        "Aker"
+      ],
+      "properties": {
+        "address": "HZ",
+        "gender": "女",
+        "name": "豆豆",
+        "type": "蓝领"
+      },
+      "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:520"
+    },
+    "dg": null
+  },
+  {
+    "a": {
+      "identity": 522,
+      "labels": [
+        "Aker"
+      ],
+      "properties": {
+        "address": "HZ",
+        "gender": "女",
+        "name": "花花",
+        "type": "黑领"
+      },
+      "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:522"
+    },
+    "dg": null
+  },
+  {
+    "a": {
+      "identity": 524,
+      "labels": [
+        "Aker"
+      ],
+      "properties": {
+        "address": "HZ",
+        "gender": "女",
+        "name": "明乔一",
+        "type": "黑领"
+      },
+      "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:524"
+    },
+    "dg": null
+  },
+  {
+    "a": {
+      "identity": 525,
+      "labels": [
+        "Aker"
+      ],
+      "properties": {
+        "address": "HZ",
+        "gender": "男",
+        "name": "明乔二",
+        "type": "黑领"
+      },
+      "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:525"
+    },
+    "dg": null
+  },
+  {
+    "a": {
+      "identity": 526,
+      "labels": [
+        "Aker"
+      ],
+      "properties": {
+        "address": "HZ",
+        "gender": "男",
+        "name": "明花三",
+        "type": "黑领"
+      },
+      "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:526"
+    },
+    "dg": null
+  }
+]

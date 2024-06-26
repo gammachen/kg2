@@ -1,0 +1,302 @@
+﻿[
+  {
+    "n": {
+      "identity": 4000,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "奢侈品"
+      },
+      "elementId": "4:7d4a898b-782e-4de0-9d77-baa156e8edb4:4000"
+    }
+  },
+  {
+    "n": {
+      "identity": 4001,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "考勤机"
+      },
+      "elementId": "4:7d4a898b-782e-4de0-9d77-baa156e8edb4:4001"
+    }
+  },
+  {
+    "n": {
+      "identity": 4002,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "家纺"
+      },
+      "elementId": "4:7d4a898b-782e-4de0-9d77-baa156e8edb4:4002"
+    }
+  },
+  {
+    "n": {
+      "identity": 4003,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "K金吊坠"
+      },
+      "elementId": "4:7d4a898b-782e-4de0-9d77-baa156e8edb4:4003"
+    }
+  },
+  {
+    "n": {
+      "identity": 4004,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "高尔夫"
+      },
+      "elementId": "4:7d4a898b-782e-4de0-9d77-baa156e8edb4:4004"
+    }
+  },
+  {
+    "n": {
+      "identity": 4005,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "投影配件"
+      },
+      "elementId": "4:7d4a898b-782e-4de0-9d77-baa156e8edb4:4005"
+    }
+  },
+  {
+    "n": {
+      "identity": 4006,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "商务投资"
+      },
+      "elementId": "4:7d4a898b-782e-4de0-9d77-baa156e8edb4:4006"
+    }
+  },
+  {
+    "n": {
+      "identity": 4007,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "专业音频"
+      },
+      "elementId": "4:7d4a898b-782e-4de0-9d77-baa156e8edb4:4007"
+    }
+  },
+  {
+    "n": {
+      "identity": 4008,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "摩托车"
+      },
+      "elementId": "4:7d4a898b-782e-4de0-9d77-baa156e8edb4:4008"
+    }
+  },
+  {
+    "n": {
+      "identity": 4009,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "婴儿床"
+      },
+      "elementId": "4:7d4a898b-782e-4de0-9d77-baa156e8edb4:4009"
+    }
+  },
+  {
+    "n": {
+      "identity": 4010,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "乳液面霜"
+      },
+      "elementId": "4:7d4a898b-782e-4de0-9d77-baa156e8edb4:4010"
+    }
+  },
+  {
+    "n": {
+      "identity": 4011,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "磨砂膏"
+      },
+      "elementId": "4:7d4a898b-782e-4de0-9d77-baa156e8edb4:4011"
+    }
+  },
+  {
+    "n": {
+      "identity": 4012,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "色带"
+      },
+      "elementId": "4:7d4a898b-782e-4de0-9d77-baa156e8edb4:4012"
+    }
+  },
+  {
+    "n": {
+      "identity": 4013,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "蓝牙设备"
+      },
+      "elementId": "4:7d4a898b-782e-4de0-9d77-baa156e8edb4:4013"
+    }
+  },
+  {
+    "n": {
+      "identity": 4014,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "牛仔裤"
+      },
+      "elementId": "4:7d4a898b-782e-4de0-9d77-baa156e8edb4:4014"
+    }
+  },
+  {
+    "n": {
+      "identity": 4015,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "手工/香皂"
+      },
+      "elementId": "4:7d4a898b-782e-4de0-9d77-baa156e8edb4:4015"
+    }
+  },
+  {
+    "n": {
+      "identity": 4016,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "个护化妆"
+      },
+      "elementId": "4:7d4a898b-782e-4de0-9d77-baa156e8edb4:4016"
+    }
+  },
+  {
+    "n": {
+      "identity": 4017,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "游戏设备"
+      },
+      "elementId": "4:7d4a898b-782e-4de0-9d77-baa156e8edb4:4017"
+    }
+  },
+  {
+    "n": {
+      "identity": 4018,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "图书、音像、电子书刊"
+      },
+      "elementId": "4:7d4a898b-782e-4de0-9d77-baa156e8edb4:4018"
+    }
+  },
+  {
+    "n": {
+      "identity": 4019,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "监控安防"
+      },
+      "elementId": "4:7d4a898b-782e-4de0-9d77-baa156e8edb4:4019"
+    }
+  },
+  {
+    "n": {
+      "identity": 4020,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "普洱"
+      },
+      "elementId": "4:7d4a898b-782e-4de0-9d77-baa156e8edb4:4020"
+    }
+  },
+  {
+    "n": {
+      "identity": 4021,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "大 家 电"
+      },
+      "elementId": "4:7d4a898b-782e-4de0-9d77-baa156e8edb4:4021"
+    }
+  },
+  {
+    "n": {
+      "identity": 4022,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "婚庆礼品/用品"
+      },
+      "elementId": "4:7d4a898b-782e-4de0-9d77-baa156e8edb4:4022"
+    }
+  },
+  {
+    "n": {
+      "identity": 4023,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "足浴盆"
+      },
+      "elementId": "4:7d4a898b-782e-4de0-9d77-baa156e8edb4:4023"
+    }
+  },
+  {
+    "n": {
+      "identity": 4024,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "装饰灯"
+      },
+      "elementId": "4:7d4a898b-782e-4de0-9d77-baa156e8edb4:4024"
+    }
+  }
+]

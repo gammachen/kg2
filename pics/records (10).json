@@ -1,0 +1,17 @@
+﻿[
+  {
+    "n": {
+      "identity": 583,
+      "labels": [
+        "Museum"
+      ],
+      "properties": {
+        "name": "浙江省博物馆",
+        "founded": "1929",
+        "location": "浙江省杭州市",
+        "id": "museum001"
+      },
+      "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:583"
+    }
+  }
+]

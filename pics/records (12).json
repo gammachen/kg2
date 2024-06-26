@@ -1,0 +1,1527 @@
+﻿[
+  {
+    "p": {
+      "start": {
+        "identity": 863,
+        "labels": [
+          "Product"
+        ],
+        "properties": {
+          "name": "毛巾掸子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+      },
+      "end": {
+        "identity": 46730,
+        "labels": [
+          "Brand"
+        ],
+        "properties": {
+          "name": "车旅魔方"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:46730"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 863,
+            "labels": [
+              "Product"
+            ],
+            "properties": {
+              "name": "毛巾掸子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "relationship": {
+            "identity": 28715,
+            "start": 46730,
+            "end": 863,
+            "type": "sales",
+            "properties": {
+              "name": "销售"
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:28715",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:46730",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "end": {
+            "identity": 46730,
+            "labels": [
+              "Brand"
+            ],
+            "properties": {
+              "name": "车旅魔方"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:46730"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 863,
+        "labels": [
+          "Product"
+        ],
+        "properties": {
+          "name": "毛巾掸子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+      },
+      "end": {
+        "identity": 5983,
+        "labels": [
+          "Brand"
+        ],
+        "properties": {
+          "name": "君芝"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:5983"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 863,
+            "labels": [
+              "Product"
+            ],
+            "properties": {
+              "name": "毛巾掸子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "relationship": {
+            "identity": 290792,
+            "start": 5983,
+            "end": 863,
+            "type": "sales",
+            "properties": {
+              "name": "销售"
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:290792",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:5983",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "end": {
+            "identity": 5983,
+            "labels": [
+              "Brand"
+            ],
+            "properties": {
+              "name": "君芝"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:5983"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 863,
+        "labels": [
+          "Product"
+        ],
+        "properties": {
+          "name": "毛巾掸子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+      },
+      "end": {
+        "identity": 41870,
+        "labels": [
+          "Brand"
+        ],
+        "properties": {
+          "name": "蓝宝海龙"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:41870"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 863,
+            "labels": [
+              "Product"
+            ],
+            "properties": {
+              "name": "毛巾掸子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "relationship": {
+            "identity": 290408,
+            "start": 41870,
+            "end": 863,
+            "type": "sales",
+            "properties": {
+              "name": "销售"
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:290408",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:41870",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "end": {
+            "identity": 41870,
+            "labels": [
+              "Brand"
+            ],
+            "properties": {
+              "name": "蓝宝海龙"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:41870"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 863,
+        "labels": [
+          "Product"
+        ],
+        "properties": {
+          "name": "毛巾掸子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+      },
+      "end": {
+        "identity": 64961,
+        "labels": [
+          "Brand"
+        ],
+        "properties": {
+          "name": "Aoomoon"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:64961"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 863,
+            "labels": [
+              "Product"
+            ],
+            "properties": {
+              "name": "毛巾掸子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "relationship": {
+            "identity": 288561,
+            "start": 64961,
+            "end": 863,
+            "type": "sales",
+            "properties": {
+              "name": "销售"
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:288561",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:64961",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "end": {
+            "identity": 64961,
+            "labels": [
+              "Brand"
+            ],
+            "properties": {
+              "name": "Aoomoon"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:64961"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 863,
+        "labels": [
+          "Product"
+        ],
+        "properties": {
+          "name": "毛巾掸子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+      },
+      "end": {
+        "identity": 67253,
+        "labels": [
+          "Brand"
+        ],
+        "properties": {
+          "name": "川过（chuanguo）"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:67253"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 863,
+            "labels": [
+              "Product"
+            ],
+            "properties": {
+              "name": "毛巾掸子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "relationship": {
+            "identity": 288217,
+            "start": 67253,
+            "end": 863,
+            "type": "sales",
+            "properties": {
+              "name": "销售"
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:288217",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:67253",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "end": {
+            "identity": 67253,
+            "labels": [
+              "Brand"
+            ],
+            "properties": {
+              "name": "川过（chuanguo）"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:67253"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 863,
+        "labels": [
+          "Product"
+        ],
+        "properties": {
+          "name": "毛巾掸子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+      },
+      "end": {
+        "identity": 34808,
+        "labels": [
+          "Brand"
+        ],
+        "properties": {
+          "name": "纤宇鹤"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:34808"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 863,
+            "labels": [
+              "Product"
+            ],
+            "properties": {
+              "name": "毛巾掸子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "relationship": {
+            "identity": 287908,
+            "start": 34808,
+            "end": 863,
+            "type": "sales",
+            "properties": {
+              "name": "销售"
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:287908",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:34808",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "end": {
+            "identity": 34808,
+            "labels": [
+              "Brand"
+            ],
+            "properties": {
+              "name": "纤宇鹤"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:34808"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 863,
+        "labels": [
+          "Product"
+        ],
+        "properties": {
+          "name": "毛巾掸子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+      },
+      "end": {
+        "identity": 17397,
+        "labels": [
+          "Brand"
+        ],
+        "properties": {
+          "name": "蕊杰（Ruijie）"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:17397"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 863,
+            "labels": [
+              "Product"
+            ],
+            "properties": {
+              "name": "毛巾掸子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "relationship": {
+            "identity": 287886,
+            "start": 17397,
+            "end": 863,
+            "type": "sales",
+            "properties": {
+              "name": "销售"
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:287886",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:17397",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "end": {
+            "identity": 17397,
+            "labels": [
+              "Brand"
+            ],
+            "properties": {
+              "name": "蕊杰（Ruijie）"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:17397"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 863,
+        "labels": [
+          "Product"
+        ],
+        "properties": {
+          "name": "毛巾掸子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+      },
+      "end": {
+        "identity": 76025,
+        "labels": [
+          "Brand"
+        ],
+        "properties": {
+          "name": "标跃（BIAO YUE）"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:76025"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 863,
+            "labels": [
+              "Product"
+            ],
+            "properties": {
+              "name": "毛巾掸子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "relationship": {
+            "identity": 287812,
+            "start": 76025,
+            "end": 863,
+            "type": "sales",
+            "properties": {
+              "name": "销售"
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:287812",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:76025",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "end": {
+            "identity": 76025,
+            "labels": [
+              "Brand"
+            ],
+            "properties": {
+              "name": "标跃（BIAO YUE）"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:76025"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 863,
+        "labels": [
+          "Product"
+        ],
+        "properties": {
+          "name": "毛巾掸子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+      },
+      "end": {
+        "identity": 17734,
+        "labels": [
+          "Brand"
+        ],
+        "properties": {
+          "name": "ROGTYO"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:17734"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 863,
+            "labels": [
+              "Product"
+            ],
+            "properties": {
+              "name": "毛巾掸子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "relationship": {
+            "identity": 287656,
+            "start": 17734,
+            "end": 863,
+            "type": "sales",
+            "properties": {
+              "name": "销售"
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:287656",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:17734",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "end": {
+            "identity": 17734,
+            "labels": [
+              "Brand"
+            ],
+            "properties": {
+              "name": "ROGTYO"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:17734"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 863,
+        "labels": [
+          "Product"
+        ],
+        "properties": {
+          "name": "毛巾掸子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+      },
+      "end": {
+        "identity": 40759,
+        "labels": [
+          "Brand"
+        ],
+        "properties": {
+          "name": "探路狼"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:40759"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 863,
+            "labels": [
+              "Product"
+            ],
+            "properties": {
+              "name": "毛巾掸子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "relationship": {
+            "identity": 287229,
+            "start": 40759,
+            "end": 863,
+            "type": "sales",
+            "properties": {
+              "name": "销售"
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:287229",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:40759",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "end": {
+            "identity": 40759,
+            "labels": [
+              "Brand"
+            ],
+            "properties": {
+              "name": "探路狼"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:40759"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 863,
+        "labels": [
+          "Product"
+        ],
+        "properties": {
+          "name": "毛巾掸子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+      },
+      "end": {
+        "identity": 11915,
+        "labels": [
+          "Brand"
+        ],
+        "properties": {
+          "name": "登晟"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:11915"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 863,
+            "labels": [
+              "Product"
+            ],
+            "properties": {
+              "name": "毛巾掸子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "relationship": {
+            "identity": 286958,
+            "start": 11915,
+            "end": 863,
+            "type": "sales",
+            "properties": {
+              "name": "销售"
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:286958",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:11915",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "end": {
+            "identity": 11915,
+            "labels": [
+              "Brand"
+            ],
+            "properties": {
+              "name": "登晟"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:11915"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 863,
+        "labels": [
+          "Product"
+        ],
+        "properties": {
+          "name": "毛巾掸子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+      },
+      "end": {
+        "identity": 67026,
+        "labels": [
+          "Brand"
+        ],
+        "properties": {
+          "name": "领贤（LX-TECH）"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:67026"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 863,
+            "labels": [
+              "Product"
+            ],
+            "properties": {
+              "name": "毛巾掸子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "relationship": {
+            "identity": 286105,
+            "start": 67026,
+            "end": 863,
+            "type": "sales",
+            "properties": {
+              "name": "销售"
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:286105",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:67026",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "end": {
+            "identity": 67026,
+            "labels": [
+              "Brand"
+            ],
+            "properties": {
+              "name": "领贤（LX-TECH）"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:67026"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 863,
+        "labels": [
+          "Product"
+        ],
+        "properties": {
+          "name": "毛巾掸子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+      },
+      "end": {
+        "identity": 45404,
+        "labels": [
+          "Brand"
+        ],
+        "properties": {
+          "name": "耀迪（YD）"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:45404"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 863,
+            "labels": [
+              "Product"
+            ],
+            "properties": {
+              "name": "毛巾掸子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "relationship": {
+            "identity": 285684,
+            "start": 45404,
+            "end": 863,
+            "type": "sales",
+            "properties": {
+              "name": "销售"
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:285684",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:45404",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "end": {
+            "identity": 45404,
+            "labels": [
+              "Brand"
+            ],
+            "properties": {
+              "name": "耀迪（YD）"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:45404"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 863,
+        "labels": [
+          "Product"
+        ],
+        "properties": {
+          "name": "毛巾掸子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+      },
+      "end": {
+        "identity": 57953,
+        "labels": [
+          "Brand"
+        ],
+        "properties": {
+          "name": "卓毅航"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:57953"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 863,
+            "labels": [
+              "Product"
+            ],
+            "properties": {
+              "name": "毛巾掸子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "relationship": {
+            "identity": 285322,
+            "start": 57953,
+            "end": 863,
+            "type": "sales",
+            "properties": {
+              "name": "销售"
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:285322",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:57953",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "end": {
+            "identity": 57953,
+            "labels": [
+              "Brand"
+            ],
+            "properties": {
+              "name": "卓毅航"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:57953"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 863,
+        "labels": [
+          "Product"
+        ],
+        "properties": {
+          "name": "毛巾掸子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+      },
+      "end": {
+        "identity": 86905,
+        "labels": [
+          "Brand"
+        ],
+        "properties": {
+          "name": "宏钜（HONGJU）"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:86905"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 863,
+            "labels": [
+              "Product"
+            ],
+            "properties": {
+              "name": "毛巾掸子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "relationship": {
+            "identity": 285036,
+            "start": 86905,
+            "end": 863,
+            "type": "sales",
+            "properties": {
+              "name": "销售"
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:285036",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:86905",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "end": {
+            "identity": 86905,
+            "labels": [
+              "Brand"
+            ],
+            "properties": {
+              "name": "宏钜（HONGJU）"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:86905"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 863,
+        "labels": [
+          "Product"
+        ],
+        "properties": {
+          "name": "毛巾掸子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+      },
+      "end": {
+        "identity": 85515,
+        "labels": [
+          "Brand"
+        ],
+        "properties": {
+          "name": "绫车绣（Lingchexiu）"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:85515"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 863,
+            "labels": [
+              "Product"
+            ],
+            "properties": {
+              "name": "毛巾掸子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "relationship": {
+            "identity": 284882,
+            "start": 85515,
+            "end": 863,
+            "type": "sales",
+            "properties": {
+              "name": "销售"
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:284882",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:85515",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "end": {
+            "identity": 85515,
+            "labels": [
+              "Brand"
+            ],
+            "properties": {
+              "name": "绫车绣（Lingchexiu）"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:85515"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 863,
+        "labels": [
+          "Product"
+        ],
+        "properties": {
+          "name": "毛巾掸子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+      },
+      "end": {
+        "identity": 28093,
+        "labels": [
+          "Brand"
+        ],
+        "properties": {
+          "name": "万记"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:28093"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 863,
+            "labels": [
+              "Product"
+            ],
+            "properties": {
+              "name": "毛巾掸子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "relationship": {
+            "identity": 284654,
+            "start": 28093,
+            "end": 863,
+            "type": "sales",
+            "properties": {
+              "name": "销售"
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:284654",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:28093",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "end": {
+            "identity": 28093,
+            "labels": [
+              "Brand"
+            ],
+            "properties": {
+              "name": "万记"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:28093"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 863,
+        "labels": [
+          "Product"
+        ],
+        "properties": {
+          "name": "毛巾掸子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+      },
+      "end": {
+        "identity": 44910,
+        "labels": [
+          "Brand"
+        ],
+        "properties": {
+          "name": "车丽友（CHELIYOU）"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:44910"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 863,
+            "labels": [
+              "Product"
+            ],
+            "properties": {
+              "name": "毛巾掸子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "relationship": {
+            "identity": 284231,
+            "start": 44910,
+            "end": 863,
+            "type": "sales",
+            "properties": {
+              "name": "销售"
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:284231",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:44910",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "end": {
+            "identity": 44910,
+            "labels": [
+              "Brand"
+            ],
+            "properties": {
+              "name": "车丽友（CHELIYOU）"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:44910"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 863,
+        "labels": [
+          "Product"
+        ],
+        "properties": {
+          "name": "毛巾掸子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+      },
+      "end": {
+        "identity": 88651,
+        "labels": [
+          "Brand"
+        ],
+        "properties": {
+          "name": "蓝帅"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:88651"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 863,
+            "labels": [
+              "Product"
+            ],
+            "properties": {
+              "name": "毛巾掸子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "relationship": {
+            "identity": 283369,
+            "start": 88651,
+            "end": 863,
+            "type": "sales",
+            "properties": {
+              "name": "销售"
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:283369",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:88651",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "end": {
+            "identity": 88651,
+            "labels": [
+              "Brand"
+            ],
+            "properties": {
+              "name": "蓝帅"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:88651"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 863,
+        "labels": [
+          "Product"
+        ],
+        "properties": {
+          "name": "毛巾掸子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+      },
+      "end": {
+        "identity": 95690,
+        "labels": [
+          "Brand"
+        ],
+        "properties": {
+          "name": "张向丽（ZHANXIANLI）"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:95690"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 863,
+            "labels": [
+              "Product"
+            ],
+            "properties": {
+              "name": "毛巾掸子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "relationship": {
+            "identity": 282837,
+            "start": 95690,
+            "end": 863,
+            "type": "sales",
+            "properties": {
+              "name": "销售"
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:282837",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:95690",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "end": {
+            "identity": 95690,
+            "labels": [
+              "Brand"
+            ],
+            "properties": {
+              "name": "张向丽（ZHANXIANLI）"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:95690"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 863,
+        "labels": [
+          "Product"
+        ],
+        "properties": {
+          "name": "毛巾掸子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+      },
+      "end": {
+        "identity": 79346,
+        "labels": [
+          "Brand"
+        ],
+        "properties": {
+          "name": "T"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:79346"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 863,
+            "labels": [
+              "Product"
+            ],
+            "properties": {
+              "name": "毛巾掸子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "relationship": {
+            "identity": 282475,
+            "start": 79346,
+            "end": 863,
+            "type": "sales",
+            "properties": {
+              "name": "销售"
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:282475",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:79346",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "end": {
+            "identity": 79346,
+            "labels": [
+              "Brand"
+            ],
+            "properties": {
+              "name": "T"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:79346"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 863,
+        "labels": [
+          "Product"
+        ],
+        "properties": {
+          "name": "毛巾掸子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+      },
+      "end": {
+        "identity": 51706,
+        "labels": [
+          "Brand"
+        ],
+        "properties": {
+          "name": "源之梦（yzhm）"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:51706"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 863,
+            "labels": [
+              "Product"
+            ],
+            "properties": {
+              "name": "毛巾掸子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "relationship": {
+            "identity": 282308,
+            "start": 51706,
+            "end": 863,
+            "type": "sales",
+            "properties": {
+              "name": "销售"
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:282308",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:51706",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "end": {
+            "identity": 51706,
+            "labels": [
+              "Brand"
+            ],
+            "properties": {
+              "name": "源之梦（yzhm）"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:51706"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 863,
+        "labels": [
+          "Product"
+        ],
+        "properties": {
+          "name": "毛巾掸子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+      },
+      "end": {
+        "identity": 55243,
+        "labels": [
+          "Brand"
+        ],
+        "properties": {
+          "name": "金艺美（jinyimei）"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:55243"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 863,
+            "labels": [
+              "Product"
+            ],
+            "properties": {
+              "name": "毛巾掸子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "relationship": {
+            "identity": 282265,
+            "start": 55243,
+            "end": 863,
+            "type": "sales",
+            "properties": {
+              "name": "销售"
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:282265",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:55243",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "end": {
+            "identity": 55243,
+            "labels": [
+              "Brand"
+            ],
+            "properties": {
+              "name": "金艺美（jinyimei）"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:55243"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 863,
+        "labels": [
+          "Product"
+        ],
+        "properties": {
+          "name": "毛巾掸子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+      },
+      "end": {
+        "identity": 56954,
+        "labels": [
+          "Brand"
+        ],
+        "properties": {
+          "name": "车之倩"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:56954"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 863,
+            "labels": [
+              "Product"
+            ],
+            "properties": {
+              "name": "毛巾掸子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "relationship": {
+            "identity": 281377,
+            "start": 56954,
+            "end": 863,
+            "type": "sales",
+            "properties": {
+              "name": "销售"
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:281377",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:56954",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "end": {
+            "identity": 56954,
+            "labels": [
+              "Brand"
+            ],
+            "properties": {
+              "name": "车之倩"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:56954"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 863,
+        "labels": [
+          "Product"
+        ],
+        "properties": {
+          "name": "毛巾掸子"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+      },
+      "end": {
+        "identity": 19712,
+        "labels": [
+          "Brand"
+        ],
+        "properties": {
+          "name": "宝昕达"
+        },
+        "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:19712"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 863,
+            "labels": [
+              "Product"
+            ],
+            "properties": {
+              "name": "毛巾掸子"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "relationship": {
+            "identity": 280695,
+            "start": 19712,
+            "end": 863,
+            "type": "sales",
+            "properties": {
+              "name": "销售"
+            },
+            "elementId": "5:a9f31338-676c-49b8-9177-0c3d8ee69987:280695",
+            "startNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:19712",
+            "endNodeElementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:863"
+          },
+          "end": {
+            "identity": 19712,
+            "labels": [
+              "Brand"
+            ],
+            "properties": {
+              "name": "宝昕达"
+            },
+            "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:19712"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  }
+]

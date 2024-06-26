@@ -1,0 +1,66 @@
+﻿[
+  {
+    "n": {
+      "identity": 529,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "sub_title": "从古希腊至今",
+        "title_cn": "西方哲学概论",
+        "title_en": "Introduction to Western Philosophy",
+        "title": "西方哲学概论",
+        "bookId": "B02"
+      },
+      "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:529"
+    }
+  },
+  {
+    "n": {
+      "identity": 546,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "sub_title": "古代至现代的发展",
+        "title_cn": "中国文学史",
+        "title_en": "History of Chinese Literature",
+        "title": "中国文学史",
+        "bookId": "B01"
+      },
+      "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:546"
+    }
+  },
+  {
+    "n": {
+      "identity": 552,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "sub_title": "宇宙与生命的奥秘",
+        "title_cn": "科学探索",
+        "title_en": "Explorations in Science",
+        "title": "科学探索",
+        "bookId": "B03"
+      },
+      "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:552"
+    }
+  },
+  {
+    "n": {
+      "identity": 560,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "sub_title": "近现代视角下的发展",
+        "title_cn": "中国文学史",
+        "title_en": "History of Chinese Literature",
+        "title": "中国文学史",
+        "bookId": "B04"
+      },
+      "elementId": "4:a9f31338-676c-49b8-9177-0c3d8ee69987:560"
+    }
+  }
+]
